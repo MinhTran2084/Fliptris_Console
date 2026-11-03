@@ -18,10 +18,12 @@ This repository serves as the project archive for the ENGG2800 Team Project at t
 * `/Software/` - Firmware for the microcontroller and the companion PC GUI application.
 
 ## 🛠️ Hardware Stack
-* **Microcontroller:** Seeeduino Xiao SAMD21
+* **Main Microcontroller:** AVR128DB28
+* **PC Communication Bridge:** Seeeduino Xiao (running polyglot-turtle-xiao firmware)
 * **Display Drivers:** 2x MAX7219 ICs
 * **Sensor:** LIS3DH Accelerometer
 * **Displays:** 2x 8x8 LED Matrices
+* **Buzzer:** Buzzer Piezo 3V 12.2MM TH
 
 ## 👥 Team 33 (ENGG2800 - Semester 2, 2026)
 * **Ngoc Minh Tran:** Hardware Engineering (Prototyping, Schematics, PCB Design)
