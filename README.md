@@ -5,8 +5,8 @@ A modified Tetris game on an 8x16 LED grid with extra physical rotation mechanic
 This repository serves as the project archive for the ENGG2800 Team Project at the University of Queensland, containing all hardware design files, firmware, and companion software.
 
 ## 🎮 Features
-* **Custom PCB:** Hand-assembled printed circuit board prioritizing surface-mounted devices (SMDs).
-* **8x16 LED Playfield:** Driven by two MAX7219 display ICs to ensure uniform brightness and eliminate charlieplexing artifacts.
+* **Custom PCB:** Hand-assembled printed circuit board prioritising surface-mounted devices (SMDs).
+* **8x16 LED Playfield:** Driven by two MAX7219 display ICs to ensure uniform brightness.
 * **Physical Rotation Mechanics:** Integrates an LIS3DH accelerometer to detect physical console rotation, influencing in-game block movement.
 * **SNES Controller Interface:** Hardware support for standard SNES gamepad inputs.
 * **Custom PC GUI:** A companion desktop application that handles scoring, next-block previews, scrolling text, and a dedicated diagnostic test mode.
