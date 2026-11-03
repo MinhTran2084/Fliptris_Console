@@ -16,6 +16,7 @@ This repository serves as the project archive for the ENGG2800 Team Project at t
 * `/Hardware_Altium/` - Source Altium Designer files (Schematics and PCB Layout).
 * `/Hardware_Gerbers/` - Exported manufacturing files used for PCB fabrication.
 * `/Software/` - Firmware for the microcontroller and the companion PC GUI application.
+* `/Media/` - Photos of the physical PCB assembly and MP4 video demonstrations of gameplay.
 
 ## 🛠️ Hardware Stack
 * **Main Microcontroller:** AVR128DB28
